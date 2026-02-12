@@ -22,44 +22,6 @@ I have hands-on experience with the following technologies:
 
 ---
 
-## 💼 Work Experience
-
-**Web Developer | Medipro Computers Pvt. Ltd.**
-*📅 Mar 2025 – Present*
-* Developing and maintaining a comprehensive **Hospital Management System** covering modules like billing, pharmacy, EMR, and HMIS.
-* Focusing on SQL Server stored procedures, functions, and performance tuning for healthcare data.
-
-**Software Developer | SB Solutions Pvt. Ltd.**
-*📅 May 2023 – Oct 2024*
-* Worked on **CreditX**, a lending automation system for banks.
-* Developed front-end components using **Angular** and **Angular Material**.
-* Integrated front-end with **Spring Boot** APIs and managed database operations using SSMS.
-* Enhanced UI/UX and resolved performance issues.
-
----
-
-## 🚀 Featured Projects
-
-### 🍳 [RecipeNest](https://github.com/yourusername/repo-link)
-* **Stack:** React, Bootstrap, .NET Core, MySQL.
-* A fully functional recipe-sharing platform where users can register, search, and upload recipes.
-* Features secure JWT authentication and role-based access for chefs and admins.
-
-### ☕ [Cafe Management System](https://github.com/yourusername/repo-link)
-* **Stack:** Angular, Spring Boot, MySQL, Spring Security.
-* A streamlined management system allowing admins to manage products and generate PDF receipts.
-* Users can browse products, place orders, and manage profiles.
-
-### 🚕 [Taxi Booking System](https://github.com/yourusername/repo-link)
-* **Stack:** Python, MySQL.
-* A system to streamline ride scheduling where admins oversee operations and assign trips.
-* Ensures efficient driver allocation and data management.
-
-### 🛠️ [Service Management System](https://github.com/yourusername/repo-link)
-* **Stack:** JavaFX, MySQL.
-* Designed for service companies (plumbing, electrical) to manage bookings and staff allocation.
-
----
 
 ## 🎓 Education
 
